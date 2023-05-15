@@ -1,0 +1,8 @@
+matplotlib~=3.7.1
+numpy~=1.24.3
+pandas~=2.0.1
+scikit-learn~=1.2.2
+seaborn~=0.12.2
+yellowbrick~=1.5
+aiosqlite~=0.19.0
+aiogram~=2.25.1
